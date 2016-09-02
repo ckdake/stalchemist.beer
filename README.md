@@ -2,10 +2,10 @@ Running stalchemist.beer locally
 ================================
 
 1. gem install bundler && bundle
-1. nanoc compile
-1. nanoc view
+1. bundle exec nanoc compile
+1. bundle exec nanoc view
 
 Deploying To Server
 ================================
-1. nanoc compile
-1. nanoc deploy
+1. bundle exec nanoc compile
+1. bundle exec nanoc deploy
