@@ -5,4 +5,4 @@ untappd: https://untappd.com/b/st-alchemist-brewing-company-clementine-s-crye-ba
 style: Saison / Farmhouse Ale
 brewdate: 2016-07-23
 ---
-Crisp and spicy. This one won the BAMO 2016 beer brewing contest!
+Crisp and spicy version 2 of our rye saison. This one won the BAMO 2016 homebrew contest!

@@ -5,4 +5,4 @@ untappd: https://untappd.com/b/st-alchemist-brewing-company-god-save-the-pumpkin
 style: Pumpkin / Yam Beer
 brewdate: 2015-09-29
 ---
-Pumpkin, cinnamon, nutmeg, all spice, and cloves. Just add turkey and akward family conversation.
+Pumpkin, cinnamon, nutmeg, all spice, and cloves. Just add turkey and awkward family conversation.
