@@ -40,6 +40,7 @@ Hops:
 
 Adjuncts/Additions:
 
+  + 1 tsp Gypsum
   + 1/2 oz Bitter orange peel @ 60 mins
   + 1 tsp Irish moss @ 20 mins
   + 1/2 tsp Yeast nutrient @ 10 mins
