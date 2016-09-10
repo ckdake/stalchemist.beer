@@ -4,11 +4,6 @@ compile '/**/*.html' do
   layout '/default.*'
 end
 
-compile '/beers/*.md' do
-  filter :kramdown
-  layout '/beer.*'
-end
-  
 compile '/**/*.md' do
   filter :kramdown
   layout '/default.*'
