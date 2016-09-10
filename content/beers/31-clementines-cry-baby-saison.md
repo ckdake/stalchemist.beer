@@ -4,5 +4,13 @@ batch: 31
 untappd: https://untappd.com/b/st-alchemist-brewing-company-clementine-s-crye-baby-saison/1700433
 style: Saison / Farmhouse Ale
 brewdate: 2016-07-23
+format: 5gal
 ---
+## Notes
 Crisp and spicy version 2 of our rye saison. This one won the BAMO 2016 homebrew contest!
+
+## Ingredients
+
+## Recipe
+
+## Tasting Notes
