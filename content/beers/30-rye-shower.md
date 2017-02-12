@@ -4,6 +4,7 @@ batch: 30
 untappd: https://untappd.com/b/st-alchemist-brewing-company-rye-shower/1576817
 style: Saison / Farmhouse Ale
 brewdate: 2016-04-02
+status: depleted
 format: 5gal
 HBUs:
 ABV: 3.3%

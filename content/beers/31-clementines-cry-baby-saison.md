@@ -4,9 +4,15 @@ batch: 31
 untappd: https://untappd.com/b/st-alchemist-brewing-company-clementine-s-crye-baby-saison/1700433
 style: Saison / Farmhouse Ale
 brewdate: 2016-07-23
+status: depleted
 format: 5gal
 HBUs:
 ABV:
+grain:
+extract:
+hops:
+yeast:
+additions:
 ---
 ## Brewing Notes
 Brewed in [the Marlay House](http://themarlayhouse.com/) parking lot on a very hot day as part of the BAMO 2016 homebrew contest.  

@@ -4,6 +4,7 @@ batch: 28
 untappd: https://untappd.com/b/st-alchemist-brewing-company-the-flavor-savor-pipa/1085855
 style: IPA - American
 brewdate: 2015-04-18
+status: depleted
 format: 5gal
 HBUs:
 ABV: 5.4%
