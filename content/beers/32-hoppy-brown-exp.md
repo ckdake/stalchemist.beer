@@ -4,15 +4,15 @@ batch: 32
 untappd: https://untappd.com/b/st-alchemist-brewing-company-hoppy-brown-experiment/1908351
 style:  DIPA / IBA / WTF
 brewdate: 2016-11-11
-status: available
+status: Available
 format: 5gal
 HBUs:
 ABV: 5%
-grain:
-extract:
-hops:
+grain: Munich, Crystal 60L, Chocolate, UK brown
+extract: Pilsen DME
+hops: Magnum, CTZ, Nugget, Chinook, Blue Fork
 yeast: Wyeast 1272 - American Ale II
-additions:
+additions: 
 ---
 ## Brewing Notes
 Original gravity = 1.068  
