@@ -4,7 +4,7 @@ batch: 31
 untappd: https://untappd.com/b/st-alchemist-brewing-company-clementine-s-crye-baby-saison/1700433
 style: Saison / Farmhouse Ale
 brewdate: 2016-07-23
-status: depleted
+status: Limited
 format: 5gal
 HBUs:
 ABV:
@@ -38,8 +38,8 @@ Extract:
 
 Hops:
 
-  + 1 oz St Seleia @ 60 mins
-  + 1/2 oz St Seleia @ 20 mins
+  + 1 oz Styrian Seleia @ 60 mins
+  + 1/2 oz Styrian Seleia @ 20 mins
   + 1/2 oz Saaz @ 20 mins
   + 1/2 oz St Seleia @ 0 mins
   + 1/2 oz Saaz @ 0 mins
