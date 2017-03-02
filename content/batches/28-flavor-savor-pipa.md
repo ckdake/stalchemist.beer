@@ -1,14 +1,16 @@
 ---
-title: The Flavor Savor PIPA
-batch: 28
-untappd: https://untappd.com/b/st-alchemist-brewing-company-the-flavor-savor-pipa/1085855
+id: 28
 style: IPA - American
+name: Flavor Savor PIPA
+beer: Flavor Savor PIPA
+untappd: https://untappd.com/b/st-alchemist-brewing-company-the-flavor-savor-pipa/1085855
 brewdate: 2015-04-18
 status: depleted
 format: 5gal
 HBUs:
 ABV: 5.4%
 ---
+
 
 ## Brewing Notes  
 A special edition of our Red Clay APA brewed with peppercorns. 'PIPA' = Peppercorn IPA.  

@@ -1,7 +1,9 @@
-<h2><%= @item[:title] %> (#<%= @item[:batch] %>)</h2>
+<h2><%= @item[:name] %></h2>
+Batches:
 <ul>
-  <li><a href="<%= @item[:untappd] %>">on untappd</a></li>
-  <li>Style: <%= @item[:style] %></li>
-  <li>Brewed on: <%= @item[:brewdate] %></li>
-  <li>Status: <%= @item[:status] %></li>
+    <% for @batch in @items.find_all("/batches/*")  %>
+        <% if @batch[:beer] == @item[:name] %>
+            <li><a href="<%= @batch.path %>"><%= @batch[:name] %></a></li>
+        <% end %>
+    <% end %>
 </ul>

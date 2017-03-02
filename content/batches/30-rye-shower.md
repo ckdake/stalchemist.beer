@@ -1,8 +1,9 @@
 ---
-title: Rye Shower
-batch: 30
-untappd: https://untappd.com/b/st-alchemist-brewing-company-rye-shower/1576817
+id: 30
 style: Saison / Farmhouse Ale
+name: Rye Shower
+beer: Rye Saison
+untappd: https://untappd.com/b/st-alchemist-brewing-company-rye-shower/1576817
 brewdate: 2016-04-02
 status: depleted
 format: 5gal

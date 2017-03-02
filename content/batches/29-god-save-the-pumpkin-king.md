@@ -1,14 +1,16 @@
 ---
-title: God Save the Pumpkin King
-batch: 29
-untappd: https://untappd.com/b/st-alchemist-brewing-company-god-save-the-pumpkin-king/1297062
+id: 29
 style: Pumpkin / Yam Beer
+name: God Save the Pumpkin King
+beer: God Save the Pumpkin King
+untappd: https://untappd.com/b/st-alchemist-brewing-company-god-save-the-pumpkin-king/1297062
 brewdate: 2015-09-29
 status: depleted
 format: 5gal
 HBUs:
 ABV: 4.9%
 ---
+
 ## Brewing Notes  
 Original gravity = 1.058  
 Final gravity = 1.020

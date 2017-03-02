@@ -1,8 +1,9 @@
 ---
-title: Clementine's Crye Baby Saison
-batch: 31
-untappd: https://untappd.com/b/st-alchemist-brewing-company-clementine-s-crye-baby-saison/1700433
+id: 31
 style: Saison / Farmhouse Ale
+name: Clementine's Crye Baby Saison
+beer: Clementine's Crye Baby Saison
+untappd: https://untappd.com/b/st-alchemist-brewing-company-clementine-s-crye-baby-saison/1700433
 brewdate: 2016-07-23
 status: Limited
 format: 5gal

@@ -1,8 +1,9 @@
 ---
-title: Hoppy Brown Experiment 1
-batch: 32
+id: 32
+style: DIPA / IPA / WTF
+name: Hoppy Brown Experiment 1
+beer: Hoppy Brown
 untappd: https://untappd.com/b/st-alchemist-brewing-company-hoppy-brown-experiment/1908351
-style:  DIPA / IBA / WTF
 brewdate: 2016-11-11
 status: Available now!
 format: 5gal
