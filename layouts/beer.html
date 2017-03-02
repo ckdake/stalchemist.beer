@@ -3,7 +3,7 @@ Batches:
 <ul>
     <% for @batch in @items.find_all("/batches/*")  %>
         <% if @batch[:beer] == @item[:name] %>
-            <li><a href="<%= @batch.path %>"><%= @batch[:name] %></a></li>
+            <li><a href="<%= @batch.path %>">#<%= @batch[:id] %>: <%= @batch[:name] %></a></li>
         <% end %>
     <% end %>
 </ul>
