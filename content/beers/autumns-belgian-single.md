@@ -1,3 +1,3 @@
 ---
-name: Autumn's Birthday Belgian Single
+name: Belgian Single
 ---

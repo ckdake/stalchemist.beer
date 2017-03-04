@@ -2,7 +2,7 @@
 id: 33
 style: Belgian Single / Blonde
 name: Autumn's Birthday Belgian Single
-beer: Autumn's Birthday Belgian Single
+beer: Belgian Single
 untappd: https://untappd.com/b/st-alchemist-brewing-company-autumn-s-birthday-belgian-single/1948409
 style:  Belgian Single / Blonde
 brewdate: 2017-01-29

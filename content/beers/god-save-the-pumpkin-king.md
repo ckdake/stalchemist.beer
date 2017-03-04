@@ -1,3 +1,3 @@
 ---
-name: God Save the Pumpkin King
+name: Pumpkin Spice
 ---

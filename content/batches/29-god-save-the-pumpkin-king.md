@@ -2,7 +2,7 @@
 id: 29
 style: Pumpkin / Yam Beer
 name: God Save the Pumpkin King
-beer: God Save the Pumpkin King
+beer: Pumpkin Spice
 untappd: https://untappd.com/b/st-alchemist-brewing-company-god-save-the-pumpkin-king/1297062
 brewdate: 2015-09-29
 status: depleted
