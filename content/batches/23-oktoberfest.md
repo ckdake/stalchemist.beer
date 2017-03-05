@@ -3,9 +3,10 @@ id: 23
 style: Marzen
 name: Oktoberfest
 beer: Oktoberfest
+brewdate: 2012-08-19
 ---
 ## Brewing Notes
-Fermented in a 'swamp cooler' with rotating frozen water bottles to maintain ~60F.
+Fermented in a 'swamp cooler' with rotating frozen water bottles to maintain ~60F.  
 Original gravity = 1.032  
 Final gravity = 1.018
 
