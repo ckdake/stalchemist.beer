@@ -17,7 +17,7 @@ yeast: Wyeast 3942 - Belgian Wheat
 additions:
 ---
 ## Brewing Notes
-Brewed in honor of Autumn's first birthday!
+Brewed in honor of Autumn's first birthday!  
 Original gravity = 1.044  
 Final gravity = 1.012
 
