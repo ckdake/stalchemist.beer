@@ -3,13 +3,14 @@ id: 24
 style: Spice beer
 name: Christmas Ale
 beer: Christmas Ale
+brewdate: 2012-11-03
 ---
 ## Brewing Notes
 Original gravity = 1.048  
 Final gravity = 1.018
 
 ## Tasting Notes
-Nice spice!  
+Classic, English style holiday ale. Nice spice!  
 
 ## Recipe
 Grain:

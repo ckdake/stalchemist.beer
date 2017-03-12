@@ -22,7 +22,7 @@ Original gravity = 1.044
 Final gravity = 1.012
 
 ## Tasting Notes
-
+Crisp, refreshing, and very Belgiany!  
 
 ## Recipe
 Grain:

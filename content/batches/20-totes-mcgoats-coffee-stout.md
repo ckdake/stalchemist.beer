@@ -2,10 +2,13 @@
 id: 20
 style: Stout
 name: Totes McGoats Coffee Stout
-beer: Totes McGoats Coffee Stout
+beer: Totes McGoats Stout
+untappd: https://untappd.com/b/st-alchemist-brewing-company-totes-mcgoats-coffee-stout/464747
+brewdate: 2012-02-11
 ---
 ## Brewing Notes
-Brewed during the Inagural BAMO... in snow flurries... on a borrowed burner (it sucked).  
+Brewed during the inaugural Barley and Mash Off... in snow flurries... on a borrowed burner (it sucked).  
+Also the first batch we brewed on Georgia soil.  
 Original gravity = 1.060  
 Final gravity = 1.028
 

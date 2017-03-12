@@ -1,3 +1,3 @@
 ---
-name: Totes McGoats Coffee Stout
+name: Totes McGoats Stout
 ---
