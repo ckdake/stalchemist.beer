@@ -7,10 +7,11 @@ brewdate: 2013-04-20
 untappd: https://untappd.com/b/st-alchemist-brewing-company-red-clay-apa/464740
 ABV:
 style:  Pale Ale - American
+status: Long gone.
 ---
 ## Brewing Notes
-Brewed for the 2013 Barely and Mash Off homebrew contest.
-Original gravity = 1.092(?)  
+Brewed for the 2013 Barely and Mash Off homebrew contest.  
+Original gravity = ?  
 Final gravity = 1.020
 
 ## Tasting Notes
