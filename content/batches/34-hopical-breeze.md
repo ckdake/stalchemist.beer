@@ -4,7 +4,7 @@ style: American IPA
 name: Hopical Breeze
 beer: Tropical IPA
 untappd:
-brewdate: TBD
+brewdate: 2017-05-13
 status:
 format: 5gal
 HBUs:
@@ -16,8 +16,8 @@ yeast: Wyeast 1272 - American Ale II
 additions:
 ---
 ## Brewing Notes
-Testing a _new_ recipe originally planned for the 2016 BAMO, before the GA Dept of Revenue spoiled the party.  
-Original gravity =  
+Testing a _new_ recipe originally planned for the 2017 BAMO, before the GA Dept of Revenue spoiled the party.  
+Original gravity = 1.052 
 Final gravity =
 
 ## Tasting Notes
