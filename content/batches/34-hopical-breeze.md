@@ -18,7 +18,7 @@ additions:
 ---
 ## Brewing Notes
 Testing a _new_ recipe originally planned for the 2017 BAMO, before the GA Dept of Revenue spoiled the party.  
-Original gravity = 1.052 
+Original gravity = 1.052  
 Final gravity =
 
 ## Tasting Notes
