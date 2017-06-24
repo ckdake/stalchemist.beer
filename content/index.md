@@ -1,6 +1,10 @@
 ---
 title: St. Alchemist Brewing
 ---
+<div id="beer_label">
+  <img src="/images/stalchemist-logo-blank.png" />
+  <span id="beer_id">35</span>
+</div>
 
 # St. Alchemist Brewing
 

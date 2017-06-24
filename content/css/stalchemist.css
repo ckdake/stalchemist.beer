@@ -42,6 +42,45 @@
 
 /* Move down content because we have a fixed navbar that is 50px tall */
 body {
-  padding-top: 50px;
+  padding-top: 10px;
   padding-bottom: 20px;
+}
+
+#beer_label {
+  display: inline;
+  position: relative;
+  float: left;
+  width: 110px;
+  height: 110px;
+  margin-right: 20px;
+  margin-bottom: 20px;
+  margin-top: 20px;
+}
+
+#beer_label img {
+  position: absolute;
+  left: 0;
+  top: 0;
+  width: 110px;
+  height: 110px;
+}
+
+#beer_id {
+  position: absolute;
+  z-index: 100;
+  top: 12px;
+  left: 36px;
+  color: #000;
+  font-size: 32px;
+  font-weight: bold;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+#beer_basics {
+  display: inline;
+  float: left;
+}
+
+.jumbotron {
+  padding-bottom: 0px;
 }

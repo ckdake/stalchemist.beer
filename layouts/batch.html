@@ -1,7 +1,14 @@
-<h2><%= @item[:name] %> (#<%= @item[:id] %>)</h2>
-<ul>
-  <li><a href="<%= @item[:untappd] %>">on untappd</a></li>
-  <li>Style: <%= @item[:style] %></li>
-  <li>Brewed on: <%= @item[:brewdate] %></li>
-  <li>Status: <%= @item[:status] %></li>
-</ul>
+<div id="beer_label">
+  <img src="/images/stalchemist-logo-blank.png" />
+  <span id="beer_id"><%= @item[:id] %></span>
+</div>
+<div id="beer_basics">
+  <h2><%= @item[:name] %></h2>
+  <ul>
+    <li><a href="<%= @item[:untappd] %>">on untappd</a></li>
+    <li>Style: <%= @item[:style] %></li>
+    <li>Brewed on: <%= @item[:brewdate] %></li>
+    <li>Status: <%= @item[:status] %></li>
+  </ul>
+</div>
+<div style="clear: both;"></div>
