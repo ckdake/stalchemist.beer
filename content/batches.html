@@ -1,0 +1,17 @@
+<div id="beer_label">
+  <img src="/images/stalchemist-logo-blank.png" />
+  <span id="beer_id">35</span>
+</div>
+
+<h1>St. Alchemist Brewing</h1>
+
+<a href="https://untappd.com/w/st-alchemist-brewing-company/83021">Find Us On Untappd</a>.
+
+<div style="clear: both;"></div>
+
+<h2>The Batches</h2>
+<ul>
+<% for @batch in @items.find_all("/batches/*").reverse  %>
+    <li><a href="<%= @batch.path %>">#<%= @batch[:id] %>: <%= @batch[:name] %></a></li>
+<% end %>
+</ul>
