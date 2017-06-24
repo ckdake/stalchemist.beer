@@ -4,6 +4,7 @@ style: Pale Ale
 name: Red Clay APA
 beer: Red Clay APA
 brewdate: 2013-08-27
+brewloction: Atlanta, GA
 untappd: https://untappd.com/b/st-alchemist-brewing-company-red-clay-apa/464740
 ABV: 4%
 style:  Pale Ale - American

@@ -4,6 +4,7 @@ style: Spice beer
 name: Christmas Ale
 beer: Christmas Ale
 brewdate: 2012-11-03
+brewloction: Atlanta, GA
 ---
 ## Brewing Notes
 Original gravity = 1.048  

@@ -5,6 +5,7 @@ name: Rye Shower
 beer: Rye Saison
 untappd: https://untappd.com/b/st-alchemist-brewing-company-rye-shower/1576817
 brewdate: 2016-04-02
+brewloction: Atlanta, GA
 status: depleted
 format: 5gal
 HBUs:

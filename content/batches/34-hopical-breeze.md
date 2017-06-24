@@ -3,9 +3,10 @@ id: 34
 style: American IPA
 name: Hopical Breeze
 beer: Tropical IPA
-untappd:
+untappd: https://untappd.com/b/st-alchemist-brewing-company-hopical-breeze/2149379
 brewdate: 2017-05-13
-status:
+brewloction: Atlanta, GA
+status: Available
 format: 5gal
 HBUs:
 ABV:

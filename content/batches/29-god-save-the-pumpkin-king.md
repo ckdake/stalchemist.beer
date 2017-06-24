@@ -5,6 +5,7 @@ name: God Save the Pumpkin King
 beer: Pumpkin Spice
 untappd: https://untappd.com/b/st-alchemist-brewing-company-god-save-the-pumpkin-king/1297062
 brewdate: 2015-09-29
+brewloction: Atlanta, GA
 status: depleted
 format: 5gal
 HBUs:

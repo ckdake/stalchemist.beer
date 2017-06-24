@@ -6,6 +6,7 @@ beer: Totes McGoats Stout
 untappd: https://untappd.com/b/st-alchemist-brewing-company-totes-mcgoats-coffee-stout/464747
 style:  Stout
 brewdate: 2013-08-03
+brewloction: Atlanta, GA
 status:
 format: 5gal
 HBUs:

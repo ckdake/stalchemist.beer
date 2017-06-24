@@ -3,6 +3,7 @@ id: 22
 style: Rye Pale Ale
 name: Lavandula Secale
 beer: Rye Pale Ale
+brewloction: Atlanta, GA
 ---
 ## Brewing Notes
 Original gravity = 1.050  

@@ -5,6 +5,7 @@ name: Hoppy Brown Experiment 1
 beer: Hoppy Brown
 untappd: https://untappd.com/b/st-alchemist-brewing-company-hoppy-brown-experiment/1908351
 brewdate: 2016-11-11
+brewloction: Atlanta, GA
 status: Available now!
 format: 5gal
 HBUs:

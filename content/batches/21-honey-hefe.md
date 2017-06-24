@@ -3,6 +3,7 @@ id: 21
 style: Hefeweizen
 name: Honey Hefe
 beer: Honey Hefe
+brewloction: Atlanta, GA
 ---
 ## Brewing Notes
 Original gravity = 1.044  

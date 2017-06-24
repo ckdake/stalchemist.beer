@@ -5,6 +5,7 @@ name: Clementine's Crye Baby Saison
 beer: Rye Saison
 untappd: https://untappd.com/b/st-alchemist-brewing-company-clementine-s-crye-baby-saison/1700433
 brewdate: 2016-07-23
+brewloction: Atlanta, GA
 status: Limited
 format: 5gal
 HBUs:

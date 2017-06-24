@@ -5,6 +5,7 @@ name: Flavor Savor PIPA
 beer: Red Clay APA
 untappd: https://untappd.com/b/st-alchemist-brewing-company-the-flavor-savor-pipa/1085855
 brewdate: 2015-04-18
+brewloction: Atlanta, GA
 status: depleted
 format: 5gal
 HBUs:

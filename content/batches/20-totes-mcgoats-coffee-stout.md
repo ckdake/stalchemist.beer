@@ -5,6 +5,7 @@ name: Totes McGoats Coffee Stout
 beer: Totes McGoats Stout
 untappd: https://untappd.com/b/st-alchemist-brewing-company-totes-mcgoats-coffee-stout/464747
 brewdate: 2012-02-11
+brewloction: Atlanta, GA
 ---
 ## Brewing Notes
 Brewed during the inaugural Barley and Mash Off... in snow flurries... on a borrowed burner (it sucked).  

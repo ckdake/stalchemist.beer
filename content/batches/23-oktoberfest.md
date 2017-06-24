@@ -4,6 +4,7 @@ style: Marzen
 name: Oktoberfest
 beer: Oktoberfest
 brewdate: 2012-08-19
+brewloction: Atlanta, GA
 ---
 ## Brewing Notes
 Fermented in a 'swamp cooler' with rotating frozen water bottles to maintain ~60F.  

@@ -5,6 +5,7 @@ name: Autumn's Birthday Belgian Single
 beer: Belgian Single
 untappd: https://untappd.com/b/st-alchemist-brewing-company-autumn-s-birthday-belgian-single/1948409
 brewdate: 2017-01-29
+brewloction: Atlanta, GA
 status: Gone!
 format: 5gal
 HBUs:
@@ -28,11 +29,11 @@ Grain:
 
   + 1/8 lb Flaked wheat
   + 1/4 lb Belgian pils
-  + 1/8 lb Biscuit malt
+  + 1/4 lb Biscuit malt
 
 Extract:
 
-  + 6 lb Pilsen DME
+  + 6 lb Pilsen Light DME
 
 Hops:
 
