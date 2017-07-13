@@ -15,6 +15,7 @@ extract: Pilsen DME
 hops: Styrian Celeia
 yeast: Wyeast 1272 - American Ale II
 additions:
+instagram_id: BUx5Pjkj44o
 ---
 ## Brewing Notes
 Testing a _new_ recipe originally planned for the 2017 BAMO, before the GA Dept of Revenue spoiled the party.  

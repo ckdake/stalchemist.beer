@@ -10,6 +10,7 @@ status: depleted
 format: 5gal
 HBUs:
 ABV: 5.4%
+instagram_id: 5XwNHPttq8
 ---
 
 

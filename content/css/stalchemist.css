@@ -89,6 +89,12 @@ body {
   float: left;
 }
 
+#beer_photo {
+  position: relative;
+  margin: 10px;
+  float: left;
+}
+
 .jumbotron {
   padding-bottom: 0px;
 }

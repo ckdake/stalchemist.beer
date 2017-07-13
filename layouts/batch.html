@@ -2,12 +2,14 @@
   <img src="/images/stalchemist-logo-blank.png" />
   <span id="beer_id"><%= @item[:id] %></span>
 </div>
-  <h2><%= @item[:name] %></h2>
-  <ul>
-    <li><a href="<%= @item[:untappd] %>">on untappd</a></li>
-    <li>Style: <%= @item[:style] %></li>
-    <li>Brewed on: <%= @item[:brewdate] %></li>
-    <li>Status: <%= @item[:status] %></li>
-  </ul>
-</div>
+<h2><%= @item[:name] %></h2>
+<ul>
+  <li><a href="<%= @item[:untappd] %>">on untappd</a></li>
+  <li>Style: <%= @item[:style] %></li>
+  <li>Brewed on: <%= @item[:brewdate] %></li>
+  <li>Status: <%= @item[:status] %></li>
+</ul>
+<% if @item[:instagram_id] != "" %>
+<div id="beer_photo"><a href="https://instagram.com/p/<%= @item[:instagram_id] %>"><img src="https://instagram.com/p/<%= @item[:instagram_id] %>/media/?size=m" /></a></div>
+<% end %>
 <div style="clear: both;"></div>

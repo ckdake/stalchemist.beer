@@ -15,6 +15,7 @@ extract: Pilsen DME
 hops: Magnum, CTZ, Nugget, Chinook, Blue Fork
 yeast: Wyeast 1272 - American Ale II
 additions:
+instagram_id: BPQ4cgdB-Tj
 ---
 ## Brewing Notes
 Original gravity = 1.068  

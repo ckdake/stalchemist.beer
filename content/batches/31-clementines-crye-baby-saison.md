@@ -15,6 +15,7 @@ extract:
 hops:
 yeast:
 additions:
+instagram_id: BJY0j15hzp9
 ---
 ## Brewing Notes
 Brewed in [the Marlay House](http://themarlayhouse.com/) parking lot on a very hot day as part of the BAMO 2016 homebrew contest.  
