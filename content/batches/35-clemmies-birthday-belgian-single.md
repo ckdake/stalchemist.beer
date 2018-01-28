@@ -3,10 +3,10 @@ id: 35
 style: Belgian Single / Blonde
 name: Clemmie's Birthday Belgian Single
 beer: Belgian Single
-untappd: https://untappd.com/b/
+untappd: https://untappd.com/b/st-alchemist-brewing-company-clemmie-s-birthday-belgian-single/2204920
 brewdate: 2017-06-24
 brewloction: Atlanta, GA
-status: Fermenting
+status: Gone!
 format: 5gal
 HBUs:
 ABV: 4%
@@ -19,10 +19,11 @@ instagram_id: BWTygYoDe9r
 ---
 ## Brewing Notes
 Brewed in honor of Clementine's first birthday!  
-Original gravity = 
-Final gravity = 
+Original gravity = 1.045  
+Final gravity = 1.014
 
 ## Tasting Notes
+Consistent with style and just different enough from the previous iteration to notice. We drank __A LOT__ of this at her birthday party!
 
 
 ## Recipe

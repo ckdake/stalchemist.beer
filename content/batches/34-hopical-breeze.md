@@ -6,10 +6,10 @@ beer: Tropical IPA
 untappd: https://untappd.com/b/st-alchemist-brewing-company-hopical-breeze/2149379
 brewdate: 2017-05-13
 brewloction: Atlanta, GA
-status: Available
+status: Gone!
 format: 5gal
 HBUs:
-ABV:
+ABV: 5%
 grain: Flaked wheat,  CaraPils, Honey malt
 extract: Pilsen DME
 hops: Styrian Celeia
@@ -20,9 +20,10 @@ instagram_id: BUx5Pjkj44o
 ## Brewing Notes
 Testing a _new_ recipe originally planned for the 2017 BAMO, before the GA Dept of Revenue spoiled the party.  
 Original gravity = 1.052  
-Final gravity =
+Final gravity = 1.012
 
 ## Tasting Notes
+Hop profile needs optimization. Not impressed by the Azacca.
 
 
 ## Recipe
