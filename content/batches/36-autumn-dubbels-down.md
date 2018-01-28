@@ -30,8 +30,8 @@ Final gravity =
 Grain:
 
   + 1 lb Belgian aromatic wheat
-  + 1/2 lb 120L Crystal
-  + 1/2 lb 80L Caramel malt
+  + 1/4 lb 120L Crystal
+  + 1/4 lb 80L Caramel malt
   + 1 oz Chocolate malt
 
 Extract:
