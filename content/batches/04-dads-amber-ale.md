@@ -1,5 +1,5 @@
 ---
-id: 04
+id: 4
 style: 
 name: Dad's Amber Ale
 beer: 

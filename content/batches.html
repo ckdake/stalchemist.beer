@@ -11,7 +11,7 @@
 
 <h2>The Batches</h2>
 <ul>
-<% for @batch in @items.find_all("/batches/*").reverse  %>
+<% for @batch in @items.find_all("/batches/*").sort_by{ |batch| batch[:id] }.reverse  %>
     <li><a href="<%= @batch.path %>">#<%= @batch[:id] %>: <%= @batch[:name] %></a></li>
 <% end %>
 </ul>

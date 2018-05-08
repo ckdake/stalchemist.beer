@@ -1,5 +1,5 @@
 ---
-id: 03
+id: 3
 style: Scotch Ale
 name: Scotch Ale
 beer: 

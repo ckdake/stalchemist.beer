@@ -1,5 +1,5 @@
 ---
-id: 09
+id: 9
 style: 
 name: Moose Drool Clone
 beer: 

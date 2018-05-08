@@ -1,5 +1,5 @@
 ---
-id: 01
+id: 1
 style: Marzen
 name: German Octoberfest
 beer: Oktoberfest

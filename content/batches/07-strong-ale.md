@@ -1,5 +1,5 @@
 ---
-id: 07
+id: 7
 style: 
 name: Strong Ale
 beer: 

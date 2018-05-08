@@ -51,7 +51,7 @@
         <div class="col-md-4">
           <h2>Recent Batches</h2>
           <ul>
-            <% for @batch in @items.find_all("/batches/*").reverse[0,8]  %>
+            <% for @batch in @items.find_all("/batches/*").sort_by{ |batch| batch[:id] }.reverse[0,8]  %>
               <li><a href="<%= @batch.path %>">#<%= @batch[:id] %>: <%= @batch[:name] %></a></li>
             <% end %>
           </ul>

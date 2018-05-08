@@ -1,5 +1,5 @@
 ---
-id: 06
+id: 6
 style: 
 name: Cherry Cream Ale
 beer: 

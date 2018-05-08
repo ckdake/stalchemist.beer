@@ -1,5 +1,5 @@
 ---
-id: 08
+id: 8
 style: 
 name: Sweet Cherry Porter
 beer: 
