@@ -8,5 +8,6 @@ Running stalchemist.beer locally
 
 Deploying To Server
 ================================
-1. bundle exec nanoc compile
-1. bundle exec nanoc deploy
+1. Push to Github!
+
+[![Netlify Status](https://api.netlify.com/api/v1/badges/94ca1c4a-c8c2-4e2c-897e-382deb2a6cd4/deploy-status)](https://app.netlify.com/sites/confident-euler-9cf971/deploys)
