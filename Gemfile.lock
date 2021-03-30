@@ -16,7 +16,7 @@ GEM
     ddplugin (1.0.2)
     hamster (3.0.0)
       concurrent-ruby (~> 1.0)
-    kramdown (2.3.0)
+    kramdown (2.3.1)
       rexml
     nanoc (4.9.2)
       addressable (~> 2.5)
