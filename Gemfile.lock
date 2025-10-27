@@ -78,6 +78,7 @@ GEM
       pastel (~> 0.8)
     tty-platform (0.3.0)
     tty-which (0.5.0)
+    webrick (1.9.1)
     zeitwerk (2.7.3)
 
 PLATFORMS
@@ -88,6 +89,7 @@ DEPENDENCIES
   adsf
   kramdown
   nanoc
+  webrick
 
 RUBY VERSION
    ruby 3.2.3p157
