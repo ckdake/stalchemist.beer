@@ -56,9 +56,9 @@
             
             <% 
               # Get batches that are fermenting or in progress
-              next_brews = @items.find_all("/batches/*").select { |b| b[:status] =~ /fermenting|brewing|conditioning/i }.sort_by{ |b| b[:id] }.reverse
+              next_brews = @items.find_all("/batches/*").select { |b| b[:status] =~ /\b(fermenting|brewing|conditioning)\b/i }.sort_by{ |b| b[:id] }.reverse
               # Get batches that are available for drinking
-              drinking = @items.find_all("/batches/*").select { |b| b[:status] =~ /available|limited|ready|on tap/i }.sort_by{ |b| b[:id] }.reverse
+              drinking = @items.find_all("/batches/*").select { |b| b[:status] =~ /\b(available|limited|ready|on tap)\b/i }.sort_by{ |b| b[:id] }.reverse
             %>
             
             <% if next_brews.any? %>
@@ -85,7 +85,7 @@
           
           <!-- Main Content -->
           <div class="col-md-9 main-content">
-            <% if @item[:instagram_id] && @item[:instagram_id] != "" %>
+            <% if @item[:instagram_id].to_s.strip != "" %>
               <div class="featured-photo">
                 <a href="https://instagram.com/p/<%= @item[:instagram_id] %>">
                   <img src="https://instagram.com/p/<%= @item[:instagram_id] %>/media/?size=l" alt="Featured photo" class="img-responsive" />
