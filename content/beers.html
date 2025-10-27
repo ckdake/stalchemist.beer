@@ -7,6 +7,21 @@
 
 <a href="https://untappd.com/w/st-alchemist-brewing-company/83021">Find Us On Untappd</a>.
 
+<% if untappd_configured? %>
+  <% stats = brewery_stats('83021') %>
+  <% if stats %>
+    <div class="brewery-stats">
+      <h3>Brewery Stats</h3>
+      <ul>
+        <li><strong>Total Check-ins:</strong> <%= stats[:total_checkins] %></li>
+        <li><strong>Unique Users:</strong> <%= stats[:unique_users] %></li>
+        <li><strong>Total Beers:</strong> <%= stats[:total_beers] %></li>
+        <li><strong>Rating:</strong> <%= stats[:rating] %></li>
+      </ul>
+    </div>
+  <% end %>
+<% end %>
+
 <div style="clear: both;"></div>
 
 <h2>The Beers</h2>

@@ -9,6 +9,19 @@
   <li>Brewed on: <%= @item[:brewdate] %></li>
   <li>Status: <%= @item[:status] %></li>
 </ul>
+<% if untappd_configured? && @item[:untappd] && !@item[:untappd].empty? %>
+  <% stats = beer_stats(@item[:untappd]) %>
+  <% if stats %>
+    <div class="beer-stats">
+      <h3>Untappd Stats</h3>
+      <ul>
+        <li><strong>Total Check-ins:</strong> <%= stats[:total_checkins] %></li>
+        <li><strong>Unique Users:</strong> <%= stats[:unique_users] %></li>
+        <li><strong>Rating:</strong> <%= stats[:rating] %> (<%= stats[:rating_count] %> ratings)</li>
+      </ul>
+    </div>
+  <% end %>
+<% end %>
 <% if @item[:instagram_id] != "" %>
 <div id="beer_photo"><a href="https://instagram.com/p/<%= @item[:instagram_id] %>"><img src="https://instagram.com/p/<%= @item[:instagram_id] %>/media/?size=m" /></a></div>
 <% end %>
