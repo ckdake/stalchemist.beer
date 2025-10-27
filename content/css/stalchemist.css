@@ -110,6 +110,12 @@ body {
   min-width: 300px;
 }
 
+@media (max-width: 480px) {
+  .brewery-stats, .beer-stats {
+    min-width: 100%;
+  }
+}
+
 .brewery-stats h3, .beer-stats h3 {
   margin-top: 0;
   margin-bottom: 10px;
