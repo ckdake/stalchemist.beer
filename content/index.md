@@ -1,11 +1,8 @@
 ---
 title: St. Alchemist Brewing
+instagram_id: BPQ4cgdB-Tj
 ---
-<div id="beer_label">
-  <img src="/images/stalchemist-logo-blank.png" />
-  <span id="beer_id">35</span>
-</div>
 
 # St. Alchemist Brewing
 
-[Find Us On Untappd](https://untappd.com/w/st-alchemist-brewing-company/83021)
+Welcome to St. Alchemist Brewing! We're a homebrewing operation crafting unique and flavorful beers. Check out our recent batches and beers using the links above, or explore our current activities in the sidebar.
