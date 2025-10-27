@@ -42,9 +42,67 @@
         <%= render '/beer.*' %>
       <% end %>
     </div>
-    <div class="container">
-        <%= yield %>
-    </div>
+    
+    <% if @item.identifier.to_s == '/index.md' %>
+      <!-- Front page two-column layout -->
+      <div class="container">
+        <div class="row">
+          <!-- Left Sidebar -->
+          <div class="col-md-3 sidebar">
+            <div id="beer_label">
+              <img src="/images/stalchemist-logo-blank.png" />
+              <span id="beer_id">35</span>
+            </div>
+            
+            <% 
+              # Get batches that are fermenting or in progress
+              next_brews = @items.find_all("/batches/*").select { |b| b[:status] =~ /\b(fermenting|brewing|conditioning)\b/i }.sort_by{ |b| b[:id] }.reverse
+              # Get batches that are available for drinking
+              drinking = @items.find_all("/batches/*").select { |b| b[:status] =~ /\b(available|limited|ready|on tap)\b/i }.sort_by{ |b| b[:id] }.reverse
+            %>
+            
+            <% if next_brews.any? %>
+              <h3>Next Brew<%= next_brews.length > 1 ? 's' : '' %></h3>
+              <ul>
+                <% next_brews.each do |batch| %>
+                  <li><a href="<%= batch.path %>">#<%= batch[:id] %>: <%= batch[:name] %></a></li>
+                <% end %>
+              </ul>
+            <% end %>
+            
+            <% if drinking.any? %>
+              <h3>Currently Drinking</h3>
+              <ul>
+                <% drinking.each do |batch| %>
+                  <li><a href="<%= batch.path %>">#<%= batch[:id] %>: <%= batch[:name] %></a></li>
+                <% end %>
+              </ul>
+            <% end %>
+            
+            <h3>Find Us On Untappd</h3>
+            <p><a href="https://untappd.com/w/st-alchemist-brewing-company/83021" class="btn btn-sm btn-primary">Untappd</a></p>
+          </div>
+          
+          <!-- Main Content -->
+          <div class="col-md-9 main-content">
+            <% if @item[:instagram_id].to_s.strip != "" %>
+              <div class="featured-photo">
+                <a href="https://instagram.com/p/<%= @item[:instagram_id] %>">
+                  <img src="https://instagram.com/p/<%= @item[:instagram_id] %>/media/?size=l" alt="Featured photo" class="img-responsive" />
+                </a>
+              </div>
+            <% end %>
+            <%= yield %>
+          </div>
+        </div>
+      </div>
+    <% else %>
+      <!-- Other pages: standard layout -->
+      <div class="container">
+          <%= yield %>
+      </div>
+    <% end %>
+    
     <div class="container">
       <hr />
       <div class="row">
