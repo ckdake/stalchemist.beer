@@ -98,3 +98,36 @@ body {
 .jumbotron {
   padding-bottom: 0px;
 }
+
+/* Untappd Stats Styling */
+.brewery-stats, .beer-stats {
+  background-color: #f8f9fa;
+  border: 1px solid #dee2e6;
+  border-radius: 4px;
+  padding: 15px;
+  margin: 15px 0;
+  display: inline-block;
+  min-width: 300px;
+}
+
+.brewery-stats h3, .beer-stats h3 {
+  margin-top: 0;
+  margin-bottom: 10px;
+  font-size: 18px;
+  color: #032A69;
+}
+
+.brewery-stats ul, .beer-stats ul {
+  list-style: none;
+  padding-left: 0;
+  margin-bottom: 0;
+}
+
+.brewery-stats li, .beer-stats li {
+  padding: 5px 0;
+  border-bottom: 1px solid #e9ecef;
+}
+
+.brewery-stats li:last-child, .beer-stats li:last-child {
+  border-bottom: none;
+}
